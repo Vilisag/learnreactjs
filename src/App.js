@@ -1,10 +1,10 @@
 import React from 'react';
 
-import {RenderCondition} from './components';
+import {Hooks} from './components';
 
 const App = () => {
     return (
-        <RenderCondition />
+        <Hooks />
     )
 }
 
