@@ -1,0 +1,1 @@
+export const API_URL = 'https://raw.githubusercontent.com/Vilisag/dvhcvn/master';
